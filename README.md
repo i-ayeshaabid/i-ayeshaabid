@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ayesha Abid 👋
 
-<!--
-**i-ayeshaabid/i-ayeshaabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Software Engineering student interested in software development and problem solving. I am currently learning programming, data structures, databases, and software engineering. I enjoy building projects and improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+| Category              | Technologies                        |
+| --------------------- | ----------------------------------- |
+| Programming Languages | C#, C++, Python, SQL                |
+| Tools                 | Visual Studio, VS Code, Git, GitHub |
+| Concepts              | OOP, Data Structures, Databases     |
+
+## Featured Projects
+
+### Dracoryx
+
+A game project developed using C# and SQL. It focuses on Object-Oriented Programming, database operations, and game development.
+
+### Avelyn
+A skincare product recommendation and management system. A web-based application developed in python.
+
+## Education
+
+**Bachelor's Degree in Software Engineering**
+University of Engineering and Technology, Lahore
+
+## Contact
+
+* GitHub: [@i_ayeshaabid](https://github.com/i_ayeshaabid)
+* LinkedIn:https://www.linkedin.com/in/ayesha-abid-abid-267521440/
+* Email: ayeshaabid.dhillon@gmail.com
